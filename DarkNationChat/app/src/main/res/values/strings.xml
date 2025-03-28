@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DarkNation Chat</string>
+    <string name="hint_message">Type a message...</string>
+    <string name="button_send">Send</string>
+    <string name="error_api">Failed to connect to Gemini</string>
+    <string name="title_activity_main">Gemini Chat</string>
+</resources>
